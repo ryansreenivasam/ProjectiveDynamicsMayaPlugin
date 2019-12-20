@@ -1,0 +1,3 @@
+/Users/ryansreenivasam/devkit/plug-ins/ProjDynamCloth3/build/CMakeFiles/projDynamCloth2.dir
+/Users/ryansreenivasam/devkit/plug-ins/ProjDynamCloth3/build/CMakeFiles/ALL_BUILD.dir
+/Users/ryansreenivasam/devkit/plug-ins/ProjDynamCloth3/build/CMakeFiles/ZERO_CHECK.dir
